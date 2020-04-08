@@ -6,3 +6,9 @@
 
 - [Download install winscp]( https://winscp.net/eng/download.php"Download install winscp")
 - Create new Site 
+    ![]( https://github.com/venkatshan/tamil-songs/blob/master/images/New%20Site.png )
+
+- Explorer/Commander/Directory View - Click Sync on top left to continue
+    ![]( https://github.com/venkatshan/tamil-songs/blob/master/images/FoldersList.png)
+- Sync setup - Make sure to select Local
+    ![]( https://github.com/venkatshan/tamil-songs/blob/master/images/sync.png )
