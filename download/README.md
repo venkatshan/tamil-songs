@@ -5,7 +5,7 @@
 #### Use WinScp to perform sync on windows.
 
 - [Download install winscp]( https://winscp.net/eng/download.php"Download install winscp")
-- Create new Site 
+- Create new Site - use provided auth info
     ![]( https://github.com/venkatshan/tamil-songs/blob/master/images/New%20Site.png )
 
 - Explorer/Commander/Directory View - Click Sync on top left to continue
